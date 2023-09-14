@@ -1,0 +1,11 @@
+Firstname: 
+Surname: 
+Cell No:
+ID No: 
+Gender: null
+Occupation: 
+Home Address: 
+Work Address: 
+Gross Pay: 
+Net Pay: 
+Vehicle: null
